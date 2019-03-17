@@ -14,6 +14,7 @@
 		22A6257D223B20D500A1D2F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22A6257B223B20D500A1D2F7 /* LaunchScreen.storyboard */; };
 		22A62588223B223700A1D2F7 /* DogsAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A62587223B223700A1D2F7 /* DogsAPI.swift */; };
 		22A6258A223B3A0600A1D2F7 /* DogImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22A62589223B3A0600A1D2F7 /* DogImage.swift */; };
+		22F9F258223EF2E000E08D1D /* DogBreedsList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22F9F257223EF2E000E08D1D /* DogBreedsList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		22A6257E223B20D500A1D2F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		22A62587223B223700A1D2F7 /* DogsAPI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogsAPI.swift; sourceTree = "<group>"; };
 		22A62589223B3A0600A1D2F7 /* DogImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogImage.swift; sourceTree = "<group>"; };
+		22F9F257223EF2E000E08D1D /* DogBreedsList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DogBreedsList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 			children = (
 				22A62587223B223700A1D2F7 /* DogsAPI.swift */,
 				22A62589223B3A0600A1D2F7 /* DogImage.swift */,
+				22F9F257223EF2E000E08D1D /* DogBreedsList.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -166,6 +169,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				22A62588223B223700A1D2F7 /* DogsAPI.swift in Sources */,
+				22F9F258223EF2E000E08D1D /* DogBreedsList.swift in Sources */,
 				22A62575223B20D300A1D2F7 /* ViewController.swift in Sources */,
 				22A6258A223B3A0600A1D2F7 /* DogImage.swift in Sources */,
 				22A62573223B20D300A1D2F7 /* AppDelegate.swift in Sources */,
